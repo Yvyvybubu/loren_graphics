@@ -13,5 +13,10 @@
     "عکس": "https://s18.picofile.com/file/8435178292/PicsArt_05_31_01_07_59.jpg",
     "لینک": "https://www.aparat.com/video/video/embed/videohash/jQfup/vt/frame?isamp",
     "کد": "کد ندارد"
+  },
+  {
+    "عکس": "https://s19.picofile.com/file/8435446884/InShot_%DB%B2%DB%B0%DB%B2%DB%B1%DB%B0%DB%B6%DB%B0%DB%B3_%DB%B1%DB%B0%DB%B1%DB%B9%DB%B1%DB%B9%DB%B9%DB%B3%DB%B9.jpg",
+    "لینک": "https://www.aparat.com/video/video/embed/videohash/oMKwT/vt/frame?isamp",
+    "کد": "Animation animation;animation \u003d AnimationUtils.loadAnimation(\ngetApplicationContext(),android.R.anim.slide_in_left);animation.setDuration(200);linear1.startAnimation(animation); animation \u003d null;"
   }
 ]
